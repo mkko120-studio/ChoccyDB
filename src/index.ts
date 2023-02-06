@@ -1,7 +1,7 @@
-import LRUCache from "./cache";
+import ChoccoLRUCache from "./cache";
 import ChoccoDB from "./database";
 
 export default ChoccoDB
 export {
-    LRUCache
+    ChoccoLRUCache
 }
